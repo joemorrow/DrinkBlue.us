@@ -2,7 +2,7 @@
 
 Does the 2016 Presidential election have you planning for Four More Years... of heavy drinking?
 
-## Vote with your Drink! DrinkBlue.us
+## Vote with your Drink! -- DrinkBlue.us
 
 Drink Blue helps you make an educated choice at the bar, the liquor store, or at home.
 
@@ -13,11 +13,11 @@ Drink Blue helps you make an educated choice at the bar, the liquor store, or at
 Order accordingly, and enjoy! It's going to be a long four years...
 
 
-* We know about most major brands, but we'd love your help entering your favorite crafts and micros.
+\* We know about most major brands, but we'd love your help entering your favorite crafts and micros.
 
 
-# DrinkBlue is
+### DrinkBlue is:
 
 &copy; 2016
-@joemorrow
+Joe Morrow
 https://github.com/joemorrow
